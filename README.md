@@ -269,15 +269,6 @@ Add screenshots of:
 
 ---
 
-## Demo Video
-
-If your video exists in repository root:
-
-```markdown
-## 🎥 Demo Video
-
-[Watch Demo](./home_automation_firebase_demo.mp4)
-```
 
 ---
 
